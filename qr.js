@@ -75,7 +75,7 @@ var randomItem = selectRandomItem(items);
                         let md = "SHAHID-XMD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*┏━━━━━━━━━━━━━━*
-*┃QADEER-MD_v16 SESSION IS*
+*┃SHAHID-XMD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
@@ -105,7 +105,7 @@ renderLargerThumbnail: true
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*┏━━━━━━━━━━━━━━*
-*┃QADEER-MD_v16 SESSION IS*
+*┃SHAHID-XMD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
