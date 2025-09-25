@@ -123,7 +123,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "QADEER BRAHVI⁴⁰",
+title: "SHAHID-XMD",
 thumbnailUrl: "https://files.catbox.moe/sxa61f.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6GQ0sH5JM5NiaEaS22",
 mediaType: 2,
