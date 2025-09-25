@@ -76,7 +76,7 @@ router.get('/', async (req, res) => {
                         await sock.newsletterFollow("120363420842499241@newsletter");             
                         
                         let desc = `*┏━━━━━━━━━━━━━━*
-*┃QADEER-MD_v16 SESSION IS*
+*┃SHAHID-XMD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
@@ -106,7 +106,7 @@ router.get('/', async (req, res) => {
                     } catch (e) {
                         let ddd = sock.sendMessage(sock.user.id, { text: e });
                         let desc = `*┏━━━━━━━━━━━━━━*
-*┃QADEER-MD_v16 SESSION IS*
+*┃SHAHID-XMD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
